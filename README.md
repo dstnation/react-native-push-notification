@@ -2,6 +2,7 @@
 [![npm version](https://badge.fury.io/js/react-native-push-notification.svg)](http://badge.fury.io/js/react-native-push-notification)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-push-notification.svg?maxAge=2592000)](https://img.shields.io/npm/dm/react-native-push-notification.svg?maxAge=2592000)
 
+[FIX RN v0.29]
 React Native Local and Remote Notifications for iOS and Android
 
 ## Installation
